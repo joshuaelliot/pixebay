@@ -1,0 +1,12 @@
+.btn-carousel{
+    padding:0 10px;
+    position: absolute;
+    top:45%;
+    font-size: 20px;
+}
+.next{
+    right:10px;
+}
+.prev{
+    left:10px;
+}

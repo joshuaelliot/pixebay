@@ -1,0 +1,30 @@
+#root{
+width: 100%;
+  margin:0;
+  padding:0;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+box-sizing: border-box;
+overflow: hidden;
+}
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding:0;
+  display: flex;
+
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100%;
+  box-sizing: border-box;
+  background-color: aliceblue;
+  position: relative;
+}
+
